@@ -21,9 +21,11 @@ Sobrepeso (IMC entre 25 e 29.9)
 Obesidade (IMC ≥ 30)
 
 ⚙️ Tecnologias Utilizadas
+
 🔹 Java (JDK X.X)
 
 🔹 Scanner (java.util.Scanner) para entrada de dados
+
 
 🚀 Como executar o projeto
 Clone o repositório:
